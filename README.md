@@ -23,7 +23,7 @@ CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPO
 
 ###  Total 24 classes
 
-#### Optimizer - Adam
+### Optimizer - Adam
 
 ### Training Accuracy = 99.64% 
 ### Test Accuracy     = 97.02%
@@ -33,7 +33,7 @@ CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPO
 ![download](https://user-images.githubusercontent.com/34737471/55292483-1c6f3600-5409-11e9-9bea-b5420129243c.png)
 
 
-# Real Time Prediction using webcam
+### Real Time Prediction using webcam
  The user has to put his hand inside the green box which is the region of interest and make the gesture the model predicts the alphabet which is made by the user 
 
 Dataset link https://www.kaggle.com/datamunge/sign-language-mnist
