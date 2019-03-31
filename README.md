@@ -21,6 +21,8 @@ In this project I have used the kaggle American Language Recognition dataset.The
 ### Neural Network
 CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPOOLING->DROPOUT->FLATTEN->DENSE->DROPOUT-> DENSE->SOFTMAX
 
+###  Total 24 classes
+
 #### Optimizer - Adam
 
 ### Training Accuracy = 99.64% 
