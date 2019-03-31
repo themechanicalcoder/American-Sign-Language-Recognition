@@ -15,7 +15,7 @@ preprocessing_and_training.ipynb contains the preporcessing and model and the re
   Cuda 9.0
 
 ### sign2text
-In this project I have used the kaggle American Language Recognition dataset.The model takes live video from the webcam and predicts the alphabet based on the hand gesture made by the user .  
+In this project I have used the kaggle American Language Recognition dataset.The model takes live video from the webcam and predicts the alphabet based on the hand gesture made by the user using a Convolutional Neural Network  .  
 
 
 ### Neural Network
