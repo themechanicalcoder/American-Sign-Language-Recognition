@@ -34,6 +34,6 @@ CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPO
 
 
 ### Real Time Prediction using webcam
- The user has to put his hand inside the green box which is the region of interest and make the gesture the model predicts the alphabet which is made by the user 
+ The user has to put his hand inside the green box which is the region of interest and make the gesture the model predicts the alphabet  made by the user 
 
 Dataset link https://www.kaggle.com/datamunge/sign-language-mnist
