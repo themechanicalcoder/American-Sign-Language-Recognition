@@ -3,6 +3,8 @@ Real time American Sign Language Recognition
 
 ![amer_sign2](https://user-images.githubusercontent.com/34737471/55292500-52acb580-5409-11e9-9a78-7cdc0d8da8b6.png)
 
+## Files in this repository
+preprocessing_and_training.ipynb contains the preporcessing and model and the real_time.ipynb is for real time Real time American Sign Language Recognition the third file is the trained file obtained from training the model on Gpu 
 
 ### Requirements
   Python3
@@ -10,9 +12,10 @@ Real time American Sign Language Recognition
   Keras
   opencv
   Matplotlib
+  Cuda 9.0
 
 ### sign2text
-In this project I have used the kaggle American Language Recognition dataset.It takes live video from the webcam and predicts the alphabet 
+In this project I have used the kaggle American Language Recognition dataset.The model takes live video from the webcam and predicts the alphabet based on the hand gesture made by the user .  
 
 
 ### Neural Network
