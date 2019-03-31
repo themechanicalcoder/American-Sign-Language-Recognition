@@ -1,6 +1,9 @@
 # American-Sign-Language-Recognition
 Real time American Sign Language Recognition
 
+![amer_sign2](https://user-images.githubusercontent.com/34737471/55292500-52acb580-5409-11e9-9a78-7cdc0d8da8b6.png)
+
+
 ### Requirements
   Python3
   Tensorflow
@@ -19,6 +22,10 @@ CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPO
 
 ### Training Accuracy = 99.64% 
 ### Test Accuracy     = 97.02%
+
+
+
+![download](https://user-images.githubusercontent.com/34737471/55292483-1c6f3600-5409-11e9-9bea-b5420129243c.png)
 
 
 # Real Time Prediction using webcam-real-time.ipynb 
