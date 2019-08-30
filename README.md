@@ -34,6 +34,9 @@ CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPO
 
 ![download](https://user-images.githubusercontent.com/34737471/55292483-1c6f3600-5409-11e9-9bea-b5420129243c.png)
 
+![2](https://user-images.githubusercontent.com/34737471/64023090-326a5980-cb55-11e9-8eda-e44398928fbf.PNG)
+
+
 
 ### Real Time Prediction using webcam
  The user has to put his hand inside the green box which is the region of interest and make the gesture the model predicts the alphabet  made by the user 
