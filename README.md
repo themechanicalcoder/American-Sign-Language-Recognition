@@ -28,6 +28,8 @@ CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPO
 ### Training Accuracy = 99.64% 
 ### Test Accuracy     = 97.02%
 
+### Results
+![1](https://user-images.githubusercontent.com/34737471/64022970-f20adb80-cb54-11e9-8343-01b2b6a540a0.PNG)
 
 
 ![download](https://user-images.githubusercontent.com/34737471/55292483-1c6f3600-5409-11e9-9bea-b5420129243c.png)
