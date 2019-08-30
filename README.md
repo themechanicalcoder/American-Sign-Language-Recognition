@@ -34,8 +34,8 @@ CONV2D->RELU->MAXPOOLING->CONV2D->RELU->MAXPOOLING->DROPOUT->CONV2D->RELU->MAXPO
 ![2](https://user-images.githubusercontent.com/34737471/64023090-326a5980-cb55-11e9-8eda-e44398928fbf.PNG)
 ![3](https://user-images.githubusercontent.com/34737471/64023173-5af25380-cb55-11e9-8f99-40afee9a9656.PNG)
 
-
-
 ![download](https://user-images.githubusercontent.com/34737471/55292483-1c6f3600-5409-11e9-9bea-b5420129243c.png)
 
+The trained model can be downloaded from this link [model](https://drive.google.com/open?id=1K-Nx2T7xTPAbsJ7DGE_rLhpHNshuHbRo)
+## References
 Dataset link https://www.kaggle.com/datamunge/sign-language-mnist
